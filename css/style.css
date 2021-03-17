@@ -1,0 +1,35 @@
+h1 {
+	background-color: lightblue;
+	border-style: double;
+	border-color: blue;
+}
+
+.box {
+	width: 100px;
+	height: 100px;
+}
+.blue {
+	background-color: lightblue;
+	border-style: double;
+	border-color: solid blue;
+	padding: 120px 140px;
+	margin: 100px;
+}
+.green {
+	background-color: lightgreen;
+	border-style: double;
+	border-color: green;
+	padding-top: 120px;
+    padding-right: 135px;
+    padding-bottom: 156px;
+    padding-left: 100px;
+	margin-top: 50px;
+	margin-right: 50px;
+	margin-bottom: 60px;
+	margin-left: 50px;
+}
+div {display: inline-block;
+  font-size: 15px;
+  text-align: left;
+
+  }
